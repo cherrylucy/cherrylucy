@@ -29,9 +29,9 @@ I’m a programmer with a passion for crafting elegant solutions and stylish int
 ---
 
 ### **📍 Where You Can Find Me:**  
-- **💻 GitHub:** [github.com/cherrylucy](#)  
+- **💻 GitHub:** [github.com/cherrylucy](github.com/cherrylucy)  
   Dive into my adorable-yet-powerful repositories filled with projects that bring ideas to life.  
-- **🐦 Twitter/X:** [@cherrylucycodes](#)  
+- **🐦 Twitter/X:** [@cherrylucy](https://x.com/CherryLucy)  
   For quick coding updates, funny developer moments, and a sprinkle of girly tech wisdom.  
 - **📷 Instagram:** [@misscherrylucy](#)  
   Aesthetic workspace snapshots, behind-the-scenes coding life, and cute coding inspo!  
